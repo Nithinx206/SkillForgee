@@ -1,0 +1,7 @@
+{
+  "name": "LifeOrganizer AI",
+  "description": "Turn chaos into clarity. Upload notes, speak your mind, or type thoughts to generate organized tasks and plans using Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
